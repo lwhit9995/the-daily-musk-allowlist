@@ -1,0 +1,256 @@
+{
+  "schema": "the-daily-musk.allowlist.v1",
+  "updated_at": "2026-09-26T00:00:00-07:00",
+  "version": 1,
+  "notes": "Universal curated list for The Daily Musk. Boss approval required before add/drop. Never invent handles.",
+  "dropped": [
+    {
+      "handle": "themarkjucosa",
+      "reason": "boss declined"
+    },
+    {
+      "handle": "vaibhav_taneja",
+      "reason": "boss dropped 2026-09-25 PT"
+    }
+  ],
+  "people": [
+    {
+      "handle": "Gwynne_Shotwell",
+      "name": "Gwynne Shotwell",
+      "tier": "senior",
+      "company": "SpaceX",
+      "role": "President/COO"
+    },
+    {
+      "handle": "LaurenDreyer",
+      "name": "Lauren Dreyer",
+      "tier": "senior",
+      "company": "SpaceX",
+      "role": "VP Starlink"
+    },
+    {
+      "handle": "aelluswamy",
+      "name": "Ashok Elluswamy",
+      "tier": "senior",
+      "company": "Tesla",
+      "role": "VP AI Software/Optimus"
+    },
+    {
+      "handle": "larsmoravy",
+      "name": "Lars Moravy",
+      "tier": "senior",
+      "company": "Tesla",
+      "role": "VP Vehicle Engineering"
+    },
+    {
+      "handle": "woodhaus2",
+      "name": "Franz von Holzhausen",
+      "tier": "senior",
+      "company": "Tesla",
+      "role": "Chief Designer"
+    },
+    {
+      "handle": "benjitaylor",
+      "name": "Benji Taylor",
+      "tier": "senior",
+      "company": "X",
+      "role": "X/SpaceXAI"
+    },
+    {
+      "handle": "djseo",
+      "name": "",
+      "tier": "senior",
+      "company": "Neuralink",
+      "role": "Neuralink"
+    },
+    {
+      "handle": "TurkeyBeaver",
+      "name": "Kiko Dontchev",
+      "tier": "senior",
+      "company": "SpaceX",
+      "role": "VP Launch"
+    },
+    {
+      "handle": "michaelnicollsx",
+      "name": "Michael Nicolls",
+      "tier": "senior",
+      "company": "SpaceX",
+      "role": "Starlink"
+    },
+    {
+      "handle": "jstyer",
+      "name": "Justin Styer",
+      "tier": "senior",
+      "company": "SpaceX",
+      "role": "Starship Launch"
+    },
+    {
+      "handle": "ShanaDiez",
+      "name": "Shana Diez",
+      "tier": "senior",
+      "company": "SpaceX",
+      "role": "Starship Engineering"
+    },
+    {
+      "handle": "wmorrill3",
+      "name": "Wes Morrill",
+      "tier": "senior",
+      "company": "Tesla",
+      "role": "Cybertruck/Reliability"
+    },
+    {
+      "handle": "shivon",
+      "name": "Shivon Zilis",
+      "tier": "senior",
+      "company": "Neuralink",
+      "role": "Ops"
+    },
+    {
+      "handle": "kate_tice",
+      "name": "",
+      "tier": "notable",
+      "company": "Tesla",
+      "role": ""
+    },
+    {
+      "handle": "AndrThie",
+      "name": "",
+      "tier": "notable",
+      "company": "Tesla",
+      "role": ""
+    },
+    {
+      "handle": "dinkin_flickaa",
+      "name": "",
+      "tier": "notable",
+      "company": "Tesla",
+      "role": ""
+    },
+    {
+      "handle": "singhai",
+      "name": "",
+      "tier": "notable",
+      "company": "xAI",
+      "role": ""
+    },
+    {
+      "handle": "EugeneWiehahn",
+      "name": "Eugene Wiehahn",
+      "tier": "notable",
+      "company": "SpaceXAI",
+      "role": ""
+    },
+    {
+      "handle": "johnbai",
+      "name": "John Bai",
+      "tier": "notable",
+      "company": "SpaceXAI",
+      "role": ""
+    },
+    {
+      "handle": "trbrashears",
+      "name": "Travis Brashears",
+      "tier": "notable",
+      "company": "SpaceX",
+      "role": ""
+    },
+    {
+      "handle": "poteto",
+      "name": "lauren",
+      "tier": "notable",
+      "company": "SpaceXAI",
+      "role": "Grok Bot"
+    },
+    {
+      "handle": "roshan_s",
+      "name": "Roshan Sadanani",
+      "tier": "notable",
+      "company": "SpaceXAI",
+      "role": "Grok Bot"
+    },
+    {
+      "handle": "mattyp",
+      "name": "Matt Palmer",
+      "tier": "notable",
+      "company": "SpaceXAI",
+      "role": "Grok Bot / Cursor"
+    }
+  ],
+  "brands": [
+    {
+      "handle": "Tesla",
+      "company": "Tesla",
+      "kind": "brand"
+    },
+    {
+      "handle": "gigafactories",
+      "company": "Tesla",
+      "kind": "brand"
+    },
+    {
+      "handle": "SpaceX",
+      "company": "SpaceX",
+      "kind": "brand"
+    },
+    {
+      "handle": "Starlink",
+      "company": "SpaceX",
+      "kind": "brand"
+    },
+    {
+      "handle": "SpaceXAI",
+      "company": "SpaceXAI",
+      "kind": "brand"
+    },
+    {
+      "handle": "neuralink",
+      "company": "Neuralink",
+      "kind": "brand"
+    },
+    {
+      "handle": "boringcompany",
+      "company": "Boring Company",
+      "kind": "brand"
+    },
+    {
+      "handle": "X",
+      "company": "X",
+      "kind": "brand"
+    },
+    {
+      "handle": "Tesla_AI",
+      "company": "Tesla",
+      "kind": "brand"
+    },
+    {
+      "handle": "tesla_na",
+      "company": "Tesla",
+      "kind": "brand"
+    },
+    {
+      "handle": "teslaeurope",
+      "company": "Tesla",
+      "kind": "brand"
+    },
+    {
+      "handle": "TeslaAUNZ",
+      "company": "Tesla",
+      "kind": "brand"
+    },
+    {
+      "handle": "robotaxi",
+      "company": "Tesla",
+      "kind": "brand"
+    },
+    {
+      "handle": "grok",
+      "company": "xAI",
+      "kind": "brand"
+    },
+    {
+      "handle": "bot",
+      "company": "SpaceXAI",
+      "kind": "brand"
+    }
+  ]
+}
