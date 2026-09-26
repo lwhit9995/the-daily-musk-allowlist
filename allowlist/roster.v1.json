@@ -1,6 +1,6 @@
 {
   "schema": "the-daily-musk.allowlist.v1",
-  "updated_at": "2026-09-26T00:00:00-07:00",
+  "updated_at": "2026-09-25T23:04:00-07:00",
   "version": 1,
   "notes": "Universal curated list for The Daily Musk. Boss approval required before add/drop. Never invent handles.",
   "dropped": [
@@ -14,6 +14,13 @@
     }
   ],
   "people": [
+    {
+      "handle": "elonmusk",
+      "name": "Elon Musk",
+      "tier": "senior",
+      "company": "Tesla/SpaceX/xAI",
+      "role": "CEO"
+    },
     {
       "handle": "Gwynne_Shotwell",
       "name": "Gwynne Shotwell",
